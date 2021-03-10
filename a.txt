@@ -1,2 +1,7 @@
 This is a file added into the git repo.
 
+This is the second modification for this file.
+
+This was added when the file was in the staging
+area, so was gree but back to red?
+
